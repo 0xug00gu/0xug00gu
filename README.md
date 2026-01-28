@@ -1,7 +1,4 @@
-# Building Products to Survive
-I build products as a way to survive, experiment, and learn.
-
-## 🚀 Products
+**🚀 Products**
 
 - **[Flica](https://flica.app)**: AI-powered flashcard service
 - **[Solenglish](https://solenglish.xyz)**: A self-study English learning platform
