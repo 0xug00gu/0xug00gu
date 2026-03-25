@@ -1,6 +1,6 @@
 **🚀 Products**
 
-- **[colign](https://colign.co/)**: SDD Tools (Opensource)
+- **[colign](https://colign.co/)**: Spec Driven Development MCP+Skill (Opensource)
 - **[fullread](https://fullread.vercel.app/)**: AI Translator for article
 - **[Piliq](https://piliq.app/)**: AI Sleep Coach
 - **[Turtly](https://apps.apple.com/kr/app/turtly-하루-5분-명상/id6758706673)**: A Meditation Guide
